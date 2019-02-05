@@ -1,0 +1,9 @@
+<link rel="apple-touch-icon" sizes="180x180" href="/home/tande/Documents/Futes-Project/css/img/logo-2.jpeg/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/home/tande/Documents/Futes-Project/css/img/logo-2.jpeg/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/home/tande/Documents/Futes-Project/css/img/logo-2.jpeg/favicon-16x16.png">
+<link rel="manifest" href="/home/tande/Documents/Futes-Project/css/img/logo-2.jpeg/site.webmanifest">
+<link rel="mask-icon" href="/home/tande/Documents/Futes-Project/css/img/logo-2.jpeg/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/home/tande/Documents/Futes-Project/css/img/logo-2.jpeg/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/home/tande/Documents/Futes-Project/css/img/logo-2.jpeg/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
